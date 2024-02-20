@@ -33,6 +33,7 @@ pip install discord openai
 Create a file named BotKeys.txt in the same directory as your bot script with the following content:
 
 GPT_TOKEN=your_openai_api_key_here
+
 BOT_TOKEN=your_discord_bot_token_here
 
 ### 4. Bot Permissions
