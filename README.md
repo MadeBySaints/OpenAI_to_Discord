@@ -66,4 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 # Disclaimer
 This project is not affiliated with OpenAI or Discord. It uses publicly available APIs from both services to demonstrate the integration capabilities. Always adhere to the terms of service for both platforms.
 
+**Note**: Access to the OpenAI API is not free. Usage fees apply according to the OpenAI pricing model. Please check the [OpenAI pricing page](https://openai.com/pricing) for current rates and details.
 
